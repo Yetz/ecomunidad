@@ -1,0 +1,134 @@
+
+.logo {
+	width: 50%;
+	height: 50%;
+	float: left;
+}
+
+ul li {
+	list-style: none;
+	display: inline-table;	
+}
+
+li a:hover{
+	background-color: #fac60e;
+	color: #fff;
+	font-size: 40px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+
+.measure {
+	border-spacing: 10px 10px;
+	text-align: center;
+}
+
+.menu {
+	font-family: Verdana;
+	color: #6E6E6E;
+	font-weight: bold;
+}
+.portada-frijol{
+	background-image: url(../img/semilla.jpg);
+	background-size: 100%;
+	height: 300px;
+	background-position: center;
+}
+
+.portada-speaker{
+	background-image: url(../img/metodo.jpg), url(../img/fondo.jpg);
+	background-size: 50%,cover;
+	width: 100%;
+	height: 300px;
+	background-repeat: no-repeat;
+	background-position: left,right;
+}
+
+.medodolog{
+	margin-left: 120px;
+}
+
+.metodologia1 {
+
+	float: right;
+	}	
+
+
+.image_girls{
+	width: 350px ;
+	height: 280px;
+	float: left;
+	padding-bottom: 0.5px;
+}
+.paragraph {
+	float: right;
+	padding-top: 80px;
+}
+
+.image-train {
+	width: 350px;
+	height: 330px;
+	float: left;
+	padding-bottom: 60px;
+}
+
+.partner1{
+	border-radius: 100%;
+	width: 60%;
+	display: inline-block;
+}
+
+.clear {
+	clear: both;
+}
+
+.social-red {
+	width: 10%;
+	padding-right: 10px;
+}
+.stone {
+	background-image: url(../img/fondo2.jpg);
+	background-size: 100%;
+	background-position: center;
+}
+
+.group-photo{
+	width: 110%;
+	height: 100%;
+}
+
+.pd-30{
+	padding-bottom: 30px;
+}
+
+.bg-strong-gray{
+	background-color:#585858;
+	height: 280px;
+}
+
+.contact {
+	padding-right: 5%;
+	width: 20%;
+	height: 60%;
+	display: inline-table;
+	border:2px solid white;
+}
+
+.icons {
+	width: 20%;
+	margin-top: 110px;
+	margin-left: 60%;
+}
+
+.boxes{
+
+	width: 25%;
+	height: 200px;
+	display: inline-block;
+	border: 1px solid white;
+	margin-top: 30px;
+	padding-left: 40px
+
+}
+
